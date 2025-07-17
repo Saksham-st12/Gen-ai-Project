@@ -11,10 +11,6 @@ To run this application, you will need:
 
 Python 3.7 or higher. OpenAI Python SoundDevice pyttsx3 scipy numpy
 
-Installation
-First, clone this repository to your local machine using:
-
-git clone https://github.com/username/nanoassistant.git
 Usage
 You can start the assistant by running the nanoassistant.py script:
 
